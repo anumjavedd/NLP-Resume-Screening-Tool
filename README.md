@@ -1,4 +1,4 @@
-# 🧠 Resume Matcher with FastAPI
+# 🧠 NLP Resume Screening Tool with FastAPI
 
 A web-based Resume & Job Description (JD) matching application built using **FastAPI** and **spaCy NLP**. The system extracts skills from resumes and job descriptions, compares them, and generates a matching score based on overlapping skills.
 

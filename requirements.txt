@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+scikit-learn
+python-multipart
+jinja2
+python-docx 
+pytesseract 
+pillow 
+PyMuPDF
+xgboost
+spacy
